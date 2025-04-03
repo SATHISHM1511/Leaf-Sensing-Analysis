@@ -1,7 +1,11 @@
 # Leaf-Sensing-Analysis
 
 opencv-python==4.10.0.84
+
 numpy==1.24.4
+
 ultralytics==8.3.13
+
 torch==2.4.1
+
 flask== 24.3.1
