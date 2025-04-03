@@ -1,0 +1,37 @@
+Healthy Leaf Classification
+---------------------------
+
+
+
+Setup:
+------
+
+    Python Version: 3.8.10
+
+
+    Library setting up
+    ------------------
+        install the listed libraries in requirements.txt using pip command
+
+        Open CMD in current Folder
+        >>pip install -r requirements.txt
+
+
+    Postman setting up
+    ------------------
+        Install Postman API application and sign-up.
+        Import the "Healthy-Leaf-Cls.postman_collection.json" file in Postman API.
+
+        Goto:
+            Postman >> binary >> Select file >> select a testing image
+
+
+
+Testing Images:
+---------------
+    Extract the zipped "TestingImages.zip" for testing images
+
+
+Running the app:     
+    Open CMD in current Folder.
+    >>python wsgi.py

@@ -1,0 +1,7 @@
+{
+    "cameraDetails":{
+            "cameraType":2,
+            "ipCamUrl":"http://192.168.76.53:8080",
+            "fps":1
+    }
+}
